@@ -13,7 +13,6 @@ To be more specific, it is the analysis of rankings and ranking differences amon
 * How to effectively visualize the analyzed data? 
   - Using Tableau to map the data geographically
   - Building an interactive websites for dynamic visualization according to viewers' needs
-<br/>
 
 ## Preparing the data
 * Collect datasets 
