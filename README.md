@@ -1,4 +1,4 @@
-# WHE-Distribution
+# WHE Distribution
 
 ## What is WHE Distribution?
 The analysis of World higher-level education (WHE) distribution.<br/>
