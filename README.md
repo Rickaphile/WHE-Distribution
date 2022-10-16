@@ -15,4 +15,7 @@ To be more specific, it is the analysis of rankings and ranking differences amon
   - Building an interactive websites for dynamic visualization according to viewers' needs
 
 ## Preparing the data
-* Collect datasets 
+* Collect datasets from CWUR websites
+  - Building a Python scraping tool to crawl the ranking data from CWUR websites
+    - Convert the scrapped results to CSV files
+    - Generate spreadsheets based on these files
