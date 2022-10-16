@@ -19,3 +19,17 @@ To be more specific, it is the analysis of rankings and ranking differences amon
   - Building a Python scraping tool to crawl the ranking data from CWUR websites
     - Convert the scrapped results to CSV files
     - Generate spreadsheets based on these files
+
+## Processing the data
+* Clean the blanked undocumented data cells
+* Remove unwanted data types (columns)
+* Filter out duplicated data cells
+* Merge the 2022-23 and 2019-20 datasets
+
+## Analysis
+* Compute ranking differences between 2022-23 and 2019-20
+* Summarize the ranking difference data into a separate dataset
+
+## Visualization
+* Display the rankings around the globe in year-scale (2022-23 and 2019-20 separately)
+* Display the ranking differences on the world map
