@@ -13,7 +13,9 @@ To be more specific, it is the analysis of rankings and ranking differences amon
 * How to effectively visualize the analyzed data? 
   - Using Tableau to map the data geographically
   - Building an interactive websites for dynamic visualization according to viewers' needs
-* **What can we learn from this?**
+* What can we learn from this?
+  - What insights can get from this analysis
+  - What strategies can be derived for high school graduates to choose their next step
 
 ## Preparing the data
 * Collect datasets from CWUR websites
