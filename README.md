@@ -3,8 +3,9 @@
 ## What is WHE Distribution?
 The analysis of World higher-level education (WHE) distribution.<br/>
 To be more specific, it is the analysis of rankings and ranking differences among universities and colleges around the globe.
+<br/>
 
-## What is the problems?
+## What are the problems?
 * What datasets is the eligible one to use?
   - CWUR world ranking lists
   - It is one of the largest authority in the area
@@ -12,6 +13,7 @@ To be more specific, it is the analysis of rankings and ranking differences amon
 * How to effectively visualize the analyzed data? 
   - Using Tableau to map the data geographically
   - Building an interactive websites for dynamic visualization according to viewers' needs
+<br/>
 
 ## Preparing the data
 * Collect datasets 
