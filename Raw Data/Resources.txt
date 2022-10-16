@@ -1,11 +1,2 @@
-U.S. News
-https://www.usnews.com/education/best-global-universities/rankings
-
-CWUR
 https://cwur.org/2022-23.php
-
-THE
-https://www.timeshighereducation.com/w%C3%B6rld-univ%C3%A9rsity-rankings/2022#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
-
-Shanghai Ranking
-https://www.shanghairanking.com/rankings/arwu/2021
+https://cwur.org/2019-20.php
