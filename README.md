@@ -7,8 +7,8 @@ To be more specific, it is the analysis of rankings and ranking differences amon
 ## What are the problems?
 * What datasets is the eligible one to use?
   - CWUR world ranking lists
-  - It is one of the largest authority in the area
-  - The data provided by CWUR is one of the most geographically well-rounded
+    - It is one of the largest authority in the area
+    - The data provided by CWUR is one of the most geographically well-rounded
 * How to effectively visualize the analyzed data? 
   - Using Tableau to map the data geographically
   - Building an interactive websites for dynamic visualization according to viewers' needs
