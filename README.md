@@ -13,6 +13,7 @@ To be more specific, it is the analysis of rankings and ranking differences amon
 * How to effectively visualize the analyzed data? 
   - Using Tableau to map the data geographically
   - Building an interactive websites for dynamic visualization according to viewers' needs
+* **What can we learn from this?
 
 ## Preparing the data
 * Collect datasets from CWUR websites
@@ -33,3 +34,5 @@ To be more specific, it is the analysis of rankings and ranking differences amon
 ## Visualization
 * Display the rankings around the globe in year-scale (2022-23 and 2019-20 separately)
 * Display the ranking differences on the world map
+
+## Insights
