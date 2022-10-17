@@ -14,8 +14,8 @@ To be more specific, it is the analysis of rankings and ranking differences amon
   - Using Tableau to map the data geographically
   - Building an interactive websites for dynamic visualization according to viewers' needs
 * ***What can we learn from this?***
-  - What insights can get from this analysis?
-  - What strategies can be derived for high school graduates to choose their next step?
+  - What insights can we get from this analysis?
+  - What strategies can be derived for high school graduates who want to pursue higher level education internationally?
 
 ## Preparing the data
 * Collect datasets from CWUR websites
