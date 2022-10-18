@@ -38,7 +38,9 @@ To be more specific, it is the analysis of rankings and ranking differences amon
   - Top 100 (2019-20)
   - Top 300 (2019-20)
   - Top 100 (2022-23)
-  - Top 300 (2022-23) 
+  - Top 300 (2022-23)
+  To see the bar charts in this section, run the following under the App directory:
+  <pre><code>streamlit app.py</code></pre>
 * Display the ranking differences on the world map
 ![differences](WHED_2019-22.png)
 
