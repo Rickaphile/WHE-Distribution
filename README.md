@@ -34,12 +34,8 @@ To be more specific, it is the analysis of rankings and ranking differences amon
 * Summarize the ranking difference data into a separate dataset
 
 ## Visualization
-* Display the rankings around the globe in year-scale (2022-23 and 2019-20 separately)
-  - Top 100 (2019-20)
-  - Top 300 (2019-20)
-  - Top 100 (2022-23)
-  - Top 300 (2022-23)<br/>
-  To see the bar charts in this section, run the following under the App directory:
+* Display the rankings around the globe in year-scale (2022-23 and 2019-20 separately)<br/>
+  To see the bar charts in this section, run the following command under the /App directory:
   <pre><code>streamlit run app.py</code></pre>
 * Display the ranking differences on the world map
 ![differences](WHED_2019-22.png)
