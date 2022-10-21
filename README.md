@@ -24,7 +24,7 @@ To be more specific, it is the analysis of rankings and ranking differences amon
     - Generate spreadsheets based on these files
 
 ## Processing the data
-* Clean the blanked undocumented data instances
+* Clean the blank undocumented data instances
 * Remove unwanted data types (columns)
 * Filter out duplicated data instances
 * Merge the 2022-23 and 2019-20 datasets
